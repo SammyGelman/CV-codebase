@@ -19,3 +19,4 @@ This project was an implementation of the circle Hough Transform algorithm to re
 I worte a script to generate the sample data which consisted of two dimentional matrices with a variable number of pixelated circles and rectangles of variable size and in variable location. 
 I wrote a script to gauge the accuracy of the algorithm tagging the image data with the number of circles present and comparing that to the algorithms guess. I also had the system draw an outline around the edges of the circles guessed. 
 The algorithm preformed at managed to successfully identify <99.8% of circles. 
+The writing of this code was made much easier thanks to the help of Python's Open_CV library.
